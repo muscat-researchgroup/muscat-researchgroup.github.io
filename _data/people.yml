@@ -13,7 +13,6 @@ philou:
 mireille:
   firstname: "Mireille"
   lastname: "Blay-Fornarino"
-  role: collab
   bio: Professor, UCA
   webpage: "http://mireilleblayfornarino.i3s.unice.fr/"
   image: /img/people/mireille.jpg
@@ -24,7 +23,7 @@ mireille:
 johann:
   lastname: "Mortara"
   firstname: "Johann"
-  role: phd
+  role: grad
   bio: "MSc 2019"
 
 # MSc Students
