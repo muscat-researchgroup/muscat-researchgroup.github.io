@@ -1,5 +1,5 @@
-
 {% assign person = include.person %}
+{% assign dname = person.firstname | append: " " | append: person.lastname %}
 
 {% comment %}
 
@@ -21,10 +21,10 @@ there by default by Bootstrap columns.
 
 {% if person.webpage %}
     {% capture name %}
-        <a href="{{ person.webpage | escape }}"> {{ person.display_name }} </a>
+        <a href="{{ person.webpage | escape }}"> {{ dname }} </a>
     {% endcapture %}
 {% else %}
-    {% assign name = person.display_name %}
+    {% assign name = dname %}
 {% endif %}
 
 {% if include.image %}
@@ -35,8 +35,9 @@ there by default by Bootstrap columns.
         <div class="col pl-0">
             <h6 class="person-name"> {{ name }} </h6>
             {% if person.bio %}
-                <div class="bio">{{person.bio}}</div>
+                <span class="bio" style="font-size: 85%">{{person.bio}}</span>
             {% endif %}
+
         </div>
     </div>
 {% else %}
