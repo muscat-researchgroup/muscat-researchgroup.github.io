@@ -1,161 +1,87 @@
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
+# Faculty
 
-prof-b:
-    display_name: "Prof B"
-    role: faculty
+philou:
+  lastname: "Collet"
+  firstname: "Philippe"
+  github: collet
+  bio: Professor, UCA
+  webpage: "http://www.i3s.unice.fr/Philippe_Collet/node/1"
+  image: /img/people/philou.jpg
+  role: faculty
 
-prof-c:
-    display_name: "Prof C"
-    role: faculty
+mireille:
+  firstname: "Mireille"
+  lastname: "Blay-Fornarino"
+  role: collab
+  bio: Professor, UCA
+  webpage: "http://mireilleblayfornarino.i3s.unice.fr/"
+  image: /img/people/mireille.jpg
+  role: faculty
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+# PhD Students
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+johann:
+  lastname: "Mortara"
+  firstname: "Johann"
+  role: phd
+  bio: "MSc 2019"
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+# MSc Students
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+## Add Interns here
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+# Undergrad / Interns
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
+# Collaborators
 
-grad-c:
-    display_name: "Grad C"
-    role: grad
+seb:
+  lastname: "Mosser"
+  firstname: "Sébastien"
+  github: mosser
+  bio: Professor, UQAM (past member)
+  image: /img/people/seb.png
+  webpage: "https://mosser.github.io"
+  role: collab
 
-grad-d:
-    display_name: "Grad D"
-    role: grad
+# Alumni Grad
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
+sami:
+  year: 2020
+  firstname: "Sami"
+  lastname: "Lazreg"
+  role: ugrad-alum
+  bio: PhD 2020 PhD 2019 (Université Côte d'Azur), Postdoc, Univ. of Luxemburg
+  image: /img/people/sami.jpg
 
-grad-f:
-    display_name: "Grad F"
-    role: grad
+ben:
+  year: 2019
+  lastname: "Benni"
+  firstname: "Benjamin"
+  bio: PhD 2019 (Université Côte d'Azur), Postdoc, Concordia University
+  image: /img/people/ben.jpg
+  role: alum
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
+gunther:
+  year: 2018
+  lastname: "Jüngbluth"
+  firstname: "Gunter"
+  bio: MSc 2018, now lead architect at Games Lab
+  image: /img/people/gunther.jpg
+  role: alum
 
-grad-h:
-    display_name: "Grad H"
-    role: grad
+ivan:
+  year: 2017
+  firstname: "Ivan"
+  lastname: "Logre"
+  bio: PhD, 2017. MSc, 2013. Now postdoc at Université Grenoble Alpes
+  role: alum
 
-grad-i:
-    display_name: "Grad I"
-    role: grad
+cyril:
+  year: 2017
+  firstname: "Cyril"
+  lastname: "Cecchinel"
+  bio: PhD, 2017. MSc, 2014. Now research engineer at DataThings
+  role: alum
 
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+# Alumni Undergrad
