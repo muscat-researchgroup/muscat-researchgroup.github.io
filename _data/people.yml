@@ -5,7 +5,7 @@ philou:
   lastname: "Collet"
   firstname: "Philippe"
   github: collet
-  bio: Professor, UCA
+  bio: Professor, (Université Côte d'Azur), group leader
   webpage: "http://www.i3s.unice.fr/Philippe_Collet/node/1"
   image: /img/people/philou.jpg
   role: faculty
@@ -13,7 +13,7 @@ philou:
 mireille:
   firstname: "Mireille"
   lastname: "Blay-Fornarino"
-  bio: Professor, UCA
+  bio: Professor, (Université Côte d'Azur)
   webpage: "http://mireilleblayfornarino.i3s.unice.fr/"
   image: /img/people/mireille.jpg
   role: faculty
@@ -49,16 +49,14 @@ sami:
   year: 2020
   firstname: "Sami"
   lastname: "Lazreg"
-  role: ugrad-alum
+  role: alum
   bio: PhD 2020 PhD 2019 (Université Côte d'Azur), Postdoc, Univ. of Luxemburg
-  image: /img/people/sami.jpg
 
 ben:
   year: 2019
   lastname: "Benni"
   firstname: "Benjamin"
   bio: PhD 2019 (Université Côte d'Azur), Postdoc, Concordia University
-  image: /img/people/ben.jpg
   role: alum
 
 gunther:
@@ -66,7 +64,6 @@ gunther:
   lastname: "Jüngbluth"
   firstname: "Gunter"
   bio: MSc 2018, now lead architect at Games Lab
-  image: /img/people/gunther.jpg
   role: alum
 
 ivan:
