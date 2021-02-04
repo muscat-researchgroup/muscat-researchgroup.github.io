@@ -16,7 +16,7 @@ roles:
   - key: staff
     name: Staff
   - key: postdoc
-    name: Researchers
+    name: Postdoc Researchers
   - key: grad
     name: Graduate Students
   - key: ugrad
@@ -47,7 +47,7 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
-  - title: Publications
+  - title: Publications (from 2016)
     link: /publications.html
   - title: Software
     link: /software.html
