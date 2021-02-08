@@ -18,13 +18,38 @@ mireille:
   image: /img/people/mireille.jpg
   role: faculty
 
+annemarie:
+    firstname: "Anne-Marie"
+    lastname: "Pinna-Dery"
+    bio: Assistant Professor, (Université Côte d'Azur)
+    webpage: "http://users.polytech.unice.fr/~pinna/"
+    image: /img/people/annemarie.png
+    role: faculty
+
+philipperg:
+    firstname: "Philippe"
+    lastname: "Renevier-Gonin"
+    bio: Assistant Professor, (Université Côte d'Azur)
+    webpage: "https://www.i3s.unice.fr/~renevier/"
+    image: /img/people/philipperg.jpg
+    role: faculty
+
 # PhD Students
 
 johann:
   lastname: "Mortara"
   firstname: "Johann"
   role: grad
+  image: /img/people/johann.jpg
   bio: "MSc 2019"
+
+yassine:
+  lastname: "Elamraoui"
+  firstname: "Yassine"
+  role: grad
+  image: /img/people/yassine.jpg
+  bio: "MSc 2019"
+
 
 # MSc Students
 
@@ -43,14 +68,48 @@ seb:
   webpage: "https://mosser.github.io"
   role: collab
 
+fred:
+  lastname: "Precioso"
+  firstname: "Fredéric"
+  bio: Professor, (Université Côte d'Azur), MAASAI INRIA-I3S join team
+  image: /img/people/fred.jpg
+  webpage: "https://www.i3s.unice.fr/~precioso/"
+  role: collab
+
+michel:
+  lastname: "Riveill"
+  firstname: "Michel"
+  bio: Professor, (Université Côte d'Azur), MAASAI INRIA-I3S join team
+  image: /img/people/michel.jpg
+  webpage: "https://www.i3s.unice.fr/~riveill/"
+  role: collab
+
+ivan:
+  year: 2017
+  firstname: "Ivan"
+  lastname: "Logre"
+  bio: PhD, 2017. MSc, 2013. Now R&D engineer at KAIZEN Solutions
+  image: /img/people/ivan.jpg
+  role: alum
+  role: collab
+
 # Alumni Grad
+
+sebseb:
+  year: 2020
+  lastname: "Bonnieux"
+  firstname: "Sébastien"
+  image: /img/people/sebseb.png
+  bio: PhD 2020 (Université Côte d'Azur)
+  role: alum
 
 sami:
   year: 2020
   firstname: "Sami"
   lastname: "Lazreg"
   role: alum
-  bio: PhD 2020 PhD 2019 (Université Côte d'Azur), Postdoc, Univ. of Luxemburg
+  image: /img/people/sami.jpg
+  bio: PhD 2020 (Université Côte d'Azur), Postdoc, Univ. of Luxemburg
 
 ben:
   year: 2019
@@ -64,13 +123,6 @@ gunther:
   lastname: "Jüngbluth"
   firstname: "Gunter"
   bio: MSc 2018, now lead architect at Games Lab
-  role: alum
-
-ivan:
-  year: 2017
-  firstname: "Ivan"
-  lastname: "Logre"
-  bio: PhD, 2017. MSc, 2013. Now postdoc at Université Grenoble Alpes
   role: alum
 
 cyril:
