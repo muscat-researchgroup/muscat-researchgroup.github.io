@@ -118,18 +118,39 @@ ben:
   bio: PhD 2019 (Université Côte d'Azur), Postdoc, Concordia University
   role: alum
 
+xheva:
+  year: 2018
+  firstname: "Xhevahire"
+  lastname: "Ternava"
+  bio: PhD, 2017 (Université Côte d'Azur), Postdoc, Université de Rennes (Diverse Team)
+  role: alum
+
+clement:
+  year: 2018
+  firstname: "Clément"
+  lastname: "Duffau"
+  bio: PhD, 2018 (Université Côte d'Azur). MSc, 2015.
+  role: alum
+
+eddy:
+  year: 2018
+  firstname: "Eddy"
+  lastname: "Ghabach"
+  bio: PhD, 2018 (Université Côte d'Azur).
+  role: alum
+
 gunther:
   year: 2018
   lastname: "Jüngbluth"
   firstname: "Gunter"
-  bio: MSc 2018, now lead architect at Games Lab
+  bio: MSc 2018 (Université Côte d'Azur), now lead architect at Games Lab
   role: alum
 
 cyril:
   year: 2017
   firstname: "Cyril"
   lastname: "Cecchinel"
-  bio: PhD, 2017. MSc, 2014. Now research engineer at DataThings
+  bio: PhD, 2017 (Université Côte d'Azur) MSc, 2014. Now research engineer at DataThings
   role: alum
 
 # Alumni Undergrad
