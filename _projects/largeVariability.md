@@ -16,7 +16,7 @@ layout: project
 last-updated: 2018-02-08
 ---
 
-Software variability studies the variation points and commonality that exists within a family of software products. 
+Software variability studies the variation points and commonality that exists within a family of software products or a configurable software system.
 
 ### Ongoing and recent projects:
 
