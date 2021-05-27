@@ -1,5 +1,5 @@
 ---
-title: Mastering IA Engineering
+title: Mastering ML practices
 
 description: |
   description to be done
