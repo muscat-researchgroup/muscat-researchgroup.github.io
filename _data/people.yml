@@ -34,6 +34,15 @@ philipperg:
     image: /img/people/philipperg.jpg
     role: faculty
 
+philippel:
+    firstname: "Philippe"
+    lastname: "Lahire"
+    bio: Professor, (Université Côte d'Azur), on secondment as executive vice president for Information Systems at Université Côte d'Azur
+    webpage: "https://www.i3s.unice.fr/~lahire/english/E-index.html"
+    image: /img/people/philippel.png
+    role: faculty
+
+
 # PhD Students
 
 johann:
