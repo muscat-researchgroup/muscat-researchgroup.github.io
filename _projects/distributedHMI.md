@@ -2,7 +2,7 @@
 title: Distributed Interfaces
 
 description: |
-  description to be done
+  We study the application of territoriality in contexts such as multi-display gaming in which personal information must be correctly managed.
 
 people:
   - annemarie
@@ -13,10 +13,10 @@ layout: project
 last-updated: 2018-02-08
 ---
 
-Territoriality
+In contexts such as multi-display gaming, distributed interfaces are needed while personal information must be correctly managed. We study the application of territoriality in this context.
 
 ### Ongoing and recent projects:
 
-  - Territoriality
+  - Territoriality in multi-display gaming
   
 
