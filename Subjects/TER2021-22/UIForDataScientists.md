@@ -25,3 +25,8 @@ Ce projet vise donc à produire une telle interface en JS qui sera directement �
 
  
  
+## Quelques pistes pour avancer
+
+- Un environnement de définition des FM : https://featureide.github.io/
+- Une interface de configuration pour data Scientists : http://rockflows.i3s.unice.fr/#/
+
