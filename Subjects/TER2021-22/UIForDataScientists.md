@@ -2,11 +2,11 @@
 
 ## Description
 
-Configurer une voiture revient à choisir différentes caractéristiques (features) : le Modèle, le moteur, la couleur, les finitions, etc (par exemple, le site de Porsche). Les choix réalisés réduisent les possibilités suivantes, par exemple, choisir un 100% électrique réduit les modèles possibles, tandis que le choix d’un moteur réduit les modèles possibles et les finitions, etc.   Le nombre de caractéristiques d’une voiture est relativement élevé, mais quand il s’agit de configurer des workflows pour des data scientists, les compositions possibles et les contraintes sont alors extrêmement nombreuses. 
+Configurer une voiture revient à choisir différentes caractéristiques (features) : le Modèle, le moteur, la couleur, les finitions, etc (par exemple, le site de [Porsche](https://cc.porsche.com/icc/ccCall.do?rt=1631009981&screen=1440x900&userID=CC&lang=cc&PARAM=parameter_internet_cc&ORDERTYPE=982120&CNR=C00&customID=cc&MODELYEAR=2022&hookURL=https%3a%2f%2fwww.porsche.com%2finternational%2fmodelstart%2fall%2f). Les choix réalisés réduisent les possibilités suivantes, par exemple, choisir un 100% électrique réduit les modèles possibles, tandis que le choix d’un moteur réduit les modèles possibles et les finitions, etc.   Le nombre de caractéristiques d’une voiture est relativement élevé, mais quand il s’agit de configurer des workflows pour des data scientists, les compositions possibles et les contraintes sont alors extrêmement nombreuses. 
 
  
 
-Afin de maîtriser la production des configurations aux seules valides, différents formalismes basés sur des systèmes de contraintes sont utilisés pour représenter et faire évoluer nos connaissances (par exemple, tel modèle de voiture n’est proposé qu’avec telle gamme de couleur, tel algorithme exige un très grand nombre de données, tel autre interdit les valeurs manquantes). Le formalisme des Feature Model est ainsi particulièrement utilisé dans le contexte des lignes de produits logiciels. 
+Afin de maîtriser la production des configurations aux seules valides, différents formalismes basés sur des systèmes de contraintes sont utilisés pour représenter et faire évoluer nos connaissances (par exemple, tel modèle de voiture n’est proposé qu’avec telle gamme de couleur, tel algorithme exige un très grand nombre de données, tel autre interdit les valeurs manquantes). Le formalisme des [Feature Model](https://en.wikipedia.org/wiki/Feature_model) est ainsi particulièrement utilisé dans le contexte des lignes de produits logiciels. 
 
  
 
