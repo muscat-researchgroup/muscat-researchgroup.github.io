@@ -15,8 +15,9 @@ Ce travail sera appliqué à des FMs d’une trentaine de caractéristiques jusq
  
 ## Références
 
-- Codes : https://github.com/ekuiter/feature-configurator 
-- Articles associés : https://elias-kuiter.de/ 
+- Codes : https://github.com/ekuiter/feature-configurator 
+- Articles associés : https://elias-kuiter.de/ 
+- Arbres de tâches : https://www.irit.fr/recherches/ICS/softwares/hamsters/
 - Q. Boucher, E. K. Abbasi, A. Hubaux, G. Perrouin, M. Acher, and P. Heymans, “Towards More Reliable Configurators: A Re-engineering Perspective,” 2012 3rd Int. Work. Prod. LinE Approaches Softw. Eng. PLEASE 2012 - Proc., pp. 29–32, Jun. 2012, doi: 10.1109/PLEASE.2012.6229766. 
 - Pour en savoir plus sur la configuration de systèmes complexes :  P. Franz, T. Berger, I. Fayaz, S. Nadi, and E. Groshev,  “ConfigFix: Interactive Configuration Conflict Resolution for the Linux Kernel,” pp. 91–100, May 2021, doi: 10.1109/ICSE-SEIP52600.2021.00018. 
 
