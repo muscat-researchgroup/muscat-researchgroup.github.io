@@ -44,7 +44,6 @@ You will have to manage this project in GitHub or gitlab repository,  implementi
 
 
 
-
 # Analyse automatique de bases de configurations de pipelines de ML
 
 **Encadrement :** Mireille Blay <Mireille.BLAY@univ-cotedazur.fr>
