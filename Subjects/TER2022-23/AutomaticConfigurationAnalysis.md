@@ -1,5 +1,5 @@
 # Automatic analysis of ML pipeline configurations
-La version en français est plus basse.
+La version en français se trouve plus bas.
 
 **Supervision:** Mireille Blay <Mireille.BLAY@univ-cotedazur.fr>
 
