@@ -3,15 +3,18 @@
 **Encadrement :** Mireille Blay <Mireille.BLAY@univ-cotedazur.fr>
 
 **Contexte :** 
-Le Machine Learning présente une grande variabilité des problèmes adressées et des solutions possibles.
-  Variabilité des problèmes, i.e., domaine applicatif, des cibles de déploiements, exigences en ressources, en explication, en maintenance, ...
-  Variabilité des solutions, i.e., des processus d'évaluation, des pipelines de traitements des données, des algorithmes de prédiction, etc.
+Les applications du Machine Learning répondent à une grande variabilité des problèmes, par des solutions encore plus nombreuses. 
+  _Variabilité des problèmes_, i.e., domaines applicatifs, cibles de déploiements, exigences en ressources, en explication, en maintenance, ...
+  _Variabilité des solutions_, i.e., des processus d'évaluation, des pipelines de traitements des données, des algorithmes de prédiction, etc.
+Face à un nouveau problème, il est interessant d'identifier les solutions existantes. La question étant de s'assurer que les problèmes sont bien équivalents et d'éliminer les solutions qui ne correspondent pas aux exigences du nouveau problème.
 
-L'équivalence de problèmes, de solutions, ....
+Dans ce projet, nous chercherons à identifier et à visualiser ces équivalences en nous basant sur des bases d'XP dans le domaine de la prédiction d'anomalies. 
+
 
 Objectifs : 
-L'objectif de ce projet est d'aider à l'analyse de bases de configurations, i.e., d'un ensemble de "features" identifiées qui définissent un problème et une solution.
-Cette analyse vise à identifier et visualiser des équivalences dans les jeux de données, les problèmes, et les solutions, à un instant donné et dans le temps, des problèmes jugés équivalents à un temps donné peuvent ne plus l'être lorsque l'on ajoute de nouveaux features pour caractériser un problème.
+L'objectif de ce projet est d'aider à l'analyse de bases de configurations, i.e., d'un ensemble de "features" identifiées qui définissent un problème et une solution, à partir d'applications existantes.
+
+Cette analyse vise à identifier et visualiser des équivalences dans les jeux de données, les problèmes, et les solutions, puis à identifier des situations telles que : des problèmes équivalents présentant des solutions différentes (un critère manquant pour distinguer les problèmes?); des solutions équivalentes à des probl, à un instant donné et dans le temps, des problèmes jugés équivalents à un temps donné peuvent ne plus l'être lorsque l'on ajoute de nouveaux features pour caractériser un problème.
 Selon le temps restant et les avancées nous chercherons également à mettre en évidence d'autres propriétés telles que les espaces de jeux de données non couverts par nos configurations.
 
 
