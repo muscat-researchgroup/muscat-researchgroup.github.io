@@ -45,11 +45,11 @@ philippel:
 
 # PhD Students
 
-johann:
-  lastname: "Mortara"
-  firstname: "Johann"
+nassim:
+  lastname: "Bounouas"
+  firstname: "Nassim"
   role: grad
-  image: /img/people/johann.jpg
+  image: /img/people/nassim.jpg
   bio: "MSc 2019"
 
 yassine:
@@ -61,6 +61,15 @@ yassine:
 
 
 # MSc Students
+
+yann:
+  lastname: "Brault"
+  firstname: "Yann"
+  role: ugrad
+  image: /img/people/yann.jpg
+  bio: "BSc 2021 - apprentice MsC expected 2023"
+
+
 
 ## Add Interns here
 
@@ -104,8 +113,16 @@ ivan:
 
 # Alumni Grad
 
+johann:
+  year: 2022
+  lastname: "Mortara"
+  firstname: "Johann"
+  role: alum
+  image: /img/people/johann.jpg
+  bio: "PhD 2022 (Université Côte d'Azur)"
+
 sebseb:
-  year: 2020
+
   lastname: "Bonnieux"
   firstname: "Sébastien"
   image: /img/people/sebseb.png
