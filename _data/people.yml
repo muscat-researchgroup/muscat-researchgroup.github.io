@@ -59,15 +59,16 @@ yassine:
   image: /img/people/yassine.jpg
   bio: "MSc 2019"
 
-
-# MSc Students
-
 yann:
   lastname: "Brault"
   firstname: "Yann"
-  role: ugrad
+  role: grad
   image: /img/people/yann.jpg
-  bio: "BSc 2021 - apprentice MsC expected 2023"
+  bio: "MSc 2023"
+
+# MSc Students
+
+
 
 
 
