@@ -10,8 +10,8 @@ people:
   - nicolas
   - fred
   - michel
+  - seb
   - yassine
-  - yann
  
 
 layout: project
