@@ -29,7 +29,7 @@ annemarie:
 philipperg:
     firstname: "Philippe"
     lastname: "Renevier-Gonin"
-    bio: Assistant Professor, (Université Côte d'Azur)
+    bio: Assistant Professor, (Université Côte d'Azur), on secondment as high school Professor
     webpage: "https://www.i3s.unice.fr/~renevier/"
     image: /img/people/philipperg.jpg
     role: faculty
@@ -52,18 +52,18 @@ nassim:
   image: /img/people/nassim.jpg
   bio: "MSc 2019"
 
-yassine:
-  lastname: "Elamraoui"
-  firstname: "Yassine"
-  role: grad
-  image: /img/people/yassine.jpg
-  bio: "MSc 2019"
-
 yann:
   lastname: "Brault"
   firstname: "Yann"
   role: grad
   image: /img/people/yann.jpg
+  bio: "MSc 2023"
+
+nicolas:
+  lastname: "Lacroix"
+  firstname: "Nicolas""
+  role: grad
+  image: /img/people/nicolas.png
   bio: "MSc 2023"
 
 # MSc Students
@@ -113,6 +113,14 @@ ivan:
   role: collab
 
 # Alumni Grad
+
+yassine:
+  year: 2024
+  lastname: "Elamraoui"
+  firstname: "Yassine"
+  role: grad
+  image: /img/people/yassine.jpg
+  bio: "PhD 2024 (Université Côte d'Azur)"
 
 johann:
   year: 2022
