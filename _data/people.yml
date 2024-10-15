@@ -150,14 +150,14 @@ ben:
   year: 2019
   lastname: "Benni"
   firstname: "Benjamin"
-  bio: PhD 2019 (Université Côte d'Azur), Postdoc, Concordia University
+  bio: PhD 2019 (Université Côte d'Azur),
   role: alum
 
 xheva:
   year: 2018
   firstname: "Xhevahire"
   lastname: "Ternava"
-  bio: PhD, 2017 (Université Côte d'Azur), Postdoc, Université de Rennes (Diverse Team)
+  bio: PhD, 2017 (Université Côte d'Azur), now Assistant Professor at Telecom Paris
   role: alum
 
 clement:
