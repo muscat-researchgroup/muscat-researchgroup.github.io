@@ -45,13 +45,6 @@ philippel:
 
 # PhD Students
 
-nassim:
-  lastname: "Bounouas"
-  firstname: "Nassim"
-  role: grad
-  image: /img/people/nassim.jpg
-  bio: "MSc 2019"
-
 yann:
   lastname: "Brault"
   firstname: "Yann"
@@ -67,8 +60,6 @@ nicolas:
   bio: "MSc 2023"
 
 # MSc Students
-
-
 
 
 
@@ -113,6 +104,13 @@ ivan:
   role: collab
 
 # Alumni Grad
+
+nassim:
+  lastname: "Bounouas"
+  firstname: "Nassim"
+  role: alum
+  image: /img/people/nassim.jpg
+  bio: "PhD 2025 (Université Côte d'Azur)"
 
 yassine:
   year: 2024
