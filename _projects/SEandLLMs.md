@@ -7,9 +7,11 @@ description: |
 people:
   - mireille
   - philou
+  - nicolas
+  - seb
 
 layout: project
-last-updated: 2024-01-10
+last-updated: 2025-06-01
 ---
 
 Large Language Models (LLMs), e.g., copilot, Llama, are more and more influencing software development practices, but are also been integrating in many kinds of applications. In this project, we aim at exploring interactions between the two, with some specific focus on tailoring LLM to the context, on implications with teaching, and on LLMs' limitations (energy consumption, ethical issues, bias, errors).
